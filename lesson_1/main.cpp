@@ -76,6 +76,6 @@ int main(int argc, char *argv[])
     qInfo()<< "My color is " << mycolor;
 */
 
-
+// This is a test for qt repo
     return a.exec();
 }
